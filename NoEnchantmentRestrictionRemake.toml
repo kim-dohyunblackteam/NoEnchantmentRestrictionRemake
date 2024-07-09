@@ -3,7 +3,7 @@ EnableDisenchantEverything = true
 
 [OhGimmeThoseSlots]
 EnableUnlimitedEnchantment = true
-EnchantmentMaxSlots = 3
+EnchantmentMaxSlots = 4
 
 [NoCanDo]
 # Add enchantment's FormID for exclusion, e.g. for Fortify Light Armor, add "10FB7A|Skyrim.esm" without the first two digits of mod index ( load order )
